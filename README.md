@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ewere (@nimboya)
-- 👀 I’m interested in DevOps and Cloud Computing
+- 🦸 I am the First AWS Community Hero in Africa
+- 👀 I have 9 years experience working with AWS Cloud
 - 📢 Advocate for Cloud Computing and DevOps practices
 - 📘 I have authored two books: Techtionary: selar.co/clug and Infrastructure Monitoring with Amazon CloudWatch: packt.live/cloudwatch
 - 👨‍💻 I have a blog on Medium: medium.com/mycloudseries
